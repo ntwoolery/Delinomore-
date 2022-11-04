@@ -1,2 +1,2 @@
 # Delinomore-
- https://ntwoolery.github.io/Delinomore-/
+https://ntwoolery.github.io/Delinomore-/
