@@ -134,37 +134,37 @@ html {
 .tm-btn-default:hover,
 .tm-btn-default:focus {
   color: white;
-  background-color: #98999A;
+  background-color: #bf3f34;
 }
 
 .tm-btn-primary {
-  background-color: #2D99CC;
+  background-color: #bf3f34;
   color: white;
 }
 
 .tm-btn-primary:hover,
 .tm-btn-primary:focus {
-  background-color: #1b6f96;
+  background-color: #bf3f34;
 }
 
 .tm-btn-success {
-  background-color: #319966;
+  background-color: #bf3f34;
   color: white;
 }
 
 .tm-btn-success:hover,
 .tm-btn-success:focus {
-  background-color: #1d6e46;
+  background-color: #bf3f34;
 }
 
 .tm-btn-danger {
-  background-color: #993332;
+  background-color: #bf3f34;
   color: white;
 }
 
 .tm-btn-danger:hover,
 .tm-btn-danger:focus {
-  background-color: #752423;
+  background-color: #bf3f34;
 }
 
 .tm-mb-45 {
