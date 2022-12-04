@@ -133,12 +133,12 @@ html {
 
 .tm-btn-default:hover,
 .tm-btn-default:focus {
-  color: white;
+  color: red;
   background-color: #bf3f34;
 }
 
 .tm-btn-primary {
-  background-color: #bf3f34;
+  background-color: #fffcfa;
   color: white;
 }
 
@@ -148,8 +148,8 @@ html {
 }
 
 .tm-btn-success {
-  background-color: #bf3f34;
-  color: white;
+  background-color: #f5770a;
+  color: orange;
 }
 
 .tm-btn-success:hover,
