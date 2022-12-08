@@ -128,18 +128,18 @@ html {
 .tm-btn-default {
   border: 1px solid #ccc;
   background-color: transparent;
-  color: #626364;
+  color: #f50b07;
 }
 
 .tm-btn-default:hover,
 .tm-btn-default:focus {
   color: red;
-  background-color: #bf3f34;
+  background-color: #f00d05;
 }
 
 .tm-btn-primary {
-  background-color: #fffcfa;
-  color: white;
+  background-color: #f07605;
+  color: red;
 }
 
 .tm-btn-primary:hover,
